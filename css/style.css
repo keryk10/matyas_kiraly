@@ -1,0 +1,25 @@
+.nav-item {
+    color: white;
+    padding: 10px;
+    margin-left: 100px;
+}
+
+img {
+   float: right;
+   border: 1px black;
+   margin: 0px 0px 15px 20px;
+   margin-top: -30px;
+   
+}
+
+h1 {
+    padding-left: 10px;
+}
+
+p {
+    padding-left: 20px;
+}
+
+h4 {
+    padding-left: 15px;
+}
